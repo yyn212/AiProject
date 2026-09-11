@@ -13,7 +13,5 @@ n2 = int(input("Enter num2"))
 sum = n1 + n2
 sub = n1 - n2
 
-
-print("SUM", sum)
-print("SUB", sub)
-
+print("SUM of number", sum)
+print("SUB of number", sub)
